@@ -1,6 +1,5 @@
 # Back End Instagram
 
-This application is intended to serve discounted
 
 ### Inside the Project
 
